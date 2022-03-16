@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.contetn-section {
+  min-height: calc(100vh - 231px) !important;
+}
